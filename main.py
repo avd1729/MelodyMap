@@ -61,7 +61,7 @@ model = GNNModel(num_features=num_features, hidden_channels=64)
 # Train the model
 train_model(model, data)
 
-torch.save(model, "song_recommender.pth")
+torch.save(model, "model/song_recommender.pth")
 
 user_id = '11da254d9d1948488318e3ea286bf484'  # Example user_id
 user_idx = user_mapping.get(user_id)
