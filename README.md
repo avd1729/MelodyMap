@@ -118,4 +118,4 @@ To visualize the GNN architecture:
 This project uses the PyTorch Geometric library for efficient graph-based computation.
 
 ## License
-This project is licensed under the Apache 2 License. See the LICENSE file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
